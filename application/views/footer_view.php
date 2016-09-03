@@ -5,7 +5,6 @@
   </div><!--close footer-->  
   
  </body> 
-
 </footer>
 
 </html>
